@@ -1,0 +1,6 @@
+changes to .tex file after running nbconvert
+
+add \tableofcontents after \maketitle
+
+delete    \section{Supporting information for ``Full vector low-temperature magnetic
+measurements of geologic materials''} and make that section name the title
