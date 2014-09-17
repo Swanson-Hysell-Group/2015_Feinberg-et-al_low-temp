@@ -1,5 +1,3 @@
-2014_Feinberg-et-al_low-temp
-============================
 This repository contains materials associated with the paper:
 
 > Full vector low-temperature magnetic measurements of geologic materials ￼
