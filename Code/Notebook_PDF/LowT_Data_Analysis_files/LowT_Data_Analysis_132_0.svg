@@ -3146,7 +3146,7 @@ z
      </g>
     </g>
     <g id="text_17">
-     <!-- Magnetization (Am$^2$) -->
+     <!-- Magnetic moment (Am$^2$) -->
      <defs>
       <path d="
 M4.98438 0
@@ -3243,19 +3243,6 @@ Q5.51562 13.875 5.51562 27.2969
 Q5.51562 40.7656 12.1719 48.375
 Q18.8438 56 30.6094 56" id="BitstreamVeraSans-Roman-6f"/>
       <path d="
-M5.51562 54.6875
-L48.1875 54.6875
-L48.1875 46.4844
-L14.4062 7.17188
-L48.1875 7.17188
-L48.1875 0
-L4.29688 0
-L4.29688 8.20312
-L38.0938 47.5156
-L5.51562 47.5156
-z
-" id="BitstreamVeraSans-Roman-7a"/>
-      <path d="
 M9.42188 54.6875
 L18.4062 54.6875
 L18.4062 0
@@ -3317,8 +3304,28 @@ L45.4062 54.6875
 L54.3906 54.6875
 z
 " id="BitstreamVeraSans-Roman-67"/>
+      <path d="
+M48.7812 52.5938
+L48.7812 44.1875
+Q44.9688 46.2969 41.1406 47.3438
+Q37.3125 48.3906 33.4062 48.3906
+Q24.6562 48.3906 19.8125 42.8438
+Q14.9844 37.3125 14.9844 27.2969
+Q14.9844 17.2812 19.8125 11.7344
+Q24.6562 6.20312 33.4062 6.20312
+Q37.3125 6.20312 41.1406 7.25
+Q44.9688 8.29688 48.7812 10.4062
+L48.7812 2.09375
+Q45.0156 0.34375 40.9844 -0.53125
+Q36.9688 -1.42188 32.4219 -1.42188
+Q20.0625 -1.42188 12.7812 6.34375
+Q5.51562 14.1094 5.51562 27.2969
+Q5.51562 40.6719 12.8594 48.3281
+Q20.2188 56 33.0156 56
+Q37.1562 56 41.1094 55.1406
+Q45.0625 54.2969 48.7812 52.5938" id="BitstreamVeraSans-Roman-63"/>
      </defs>
-     <g transform="translate(16.2 213.368125)rotate(-90.0)scale(0.1 -0.1)">
+     <g transform="translate(16.2 223.468125)rotate(-90.0)scale(0.1 -0.1)">
       <use transform="translate(0.0 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-4d"/>
       <use transform="translate(86.279296875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-61"/>
       <use transform="translate(147.55859375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-67"/>
@@ -3326,18 +3333,20 @@ z
       <use transform="translate(274.4140625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-65"/>
       <use transform="translate(335.9375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-74"/>
       <use transform="translate(375.146484375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-69"/>
-      <use transform="translate(402.9296875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-7a"/>
-      <use transform="translate(455.419921875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-61"/>
-      <use transform="translate(516.69921875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-74"/>
-      <use transform="translate(555.908203125 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-69"/>
-      <use transform="translate(583.69140625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6f"/>
-      <use transform="translate(644.873046875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6e"/>
-      <use transform="translate(708.251953125 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-20"/>
-      <use transform="translate(740.0390625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-28"/>
-      <use transform="translate(779.052734375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-41"/>
-      <use transform="translate(847.4609375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
-      <use transform="translate(944.873046875 43.3734375)scale(0.7)" xlink:href="#Cmr10-32"/>
-      <use transform="translate(1011.87929688 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-29"/>
+      <use transform="translate(402.9296875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-63"/>
+      <use transform="translate(457.91015625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-20"/>
+      <use transform="translate(489.697265625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
+      <use transform="translate(587.109375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6f"/>
+      <use transform="translate(648.291015625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
+      <use transform="translate(745.703125 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-65"/>
+      <use transform="translate(807.2265625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6e"/>
+      <use transform="translate(870.60546875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-74"/>
+      <use transform="translate(909.814453125 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-20"/>
+      <use transform="translate(941.6015625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-28"/>
+      <use transform="translate(980.615234375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-41"/>
+      <use transform="translate(1049.0234375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
+      <use transform="translate(1146.43554688 43.3734375)scale(0.7)" xlink:href="#Cmr10-32"/>
+      <use transform="translate(1213.44179687 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-29"/>
      </g>
     </g>
     <g id="text_18">
@@ -3474,26 +3483,6 @@ Q10.8906 67.625 15.1406 71.7969
 Q19.3906 75.9844 28.6094 75.9844
 z
 " id="BitstreamVeraSans-Roman-66"/>
-     <path d="
-M48.7812 52.5938
-L48.7812 44.1875
-Q44.9688 46.2969 41.1406 47.3438
-Q37.3125 48.3906 33.4062 48.3906
-Q24.6562 48.3906 19.8125 42.8438
-Q14.9844 37.3125 14.9844 27.2969
-Q14.9844 17.2812 19.8125 11.7344
-Q24.6562 6.20312 33.4062 6.20312
-Q37.3125 6.20312 41.1406 7.25
-Q44.9688 8.29688 48.7812 10.4062
-L48.7812 2.09375
-Q45.0156 0.34375 40.9844 -0.53125
-Q36.9688 -1.42188 32.4219 -1.42188
-Q20.0625 -1.42188 12.7812 6.34375
-Q5.51562 14.1094 5.51562 27.2969
-Q5.51562 40.6719 12.8594 48.3281
-Q20.2188 56 33.0156 56
-Q37.1562 56 41.1094 55.1406
-Q45.0625 54.2969 48.7812 52.5938" id="BitstreamVeraSans-Roman-63"/>
      <path d="
 M48.6875 27.2969
 Q48.6875 37.2031 44.6094 42.8438
@@ -3746,6 +3735,21 @@ z
     </g>
     <g id="text_24">
      <!-- Mz cooling (7/14) -->
+     <defs>
+      <path d="
+M5.51562 54.6875
+L48.1875 54.6875
+L48.1875 46.4844
+L14.4062 7.17188
+L48.1875 7.17188
+L48.1875 0
+L4.29688 0
+L4.29688 8.20312
+L38.0938 47.5156
+L5.51562 47.5156
+z
+" id="BitstreamVeraSans-Roman-7a"/>
+     </defs>
      <g transform="translate(547.30125 105.69125)scale(0.12 -0.12)">
       <use xlink:href="#BitstreamVeraSans-Roman-4d"/>
       <use x="86.279296875" xlink:href="#BitstreamVeraSans-Roman-7a"/>

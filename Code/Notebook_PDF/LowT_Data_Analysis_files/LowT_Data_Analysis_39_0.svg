@@ -1131,7 +1131,7 @@ z
      </g>
     </g>
     <g id="text_16">
-     <!-- gradient of magnetization (Am$^2$/kg) -->
+     <!-- gradient of magnetization (Am$^2$/kg/K) -->
      <defs>
       <path d="
 M4.98438 0
@@ -1353,7 +1353,7 @@ Q19.3906 75.9844 28.6094 75.9844
 z
 " id="BitstreamVeraSans-Roman-66"/>
      </defs>
-     <g transform="translate(16.2 213.5890625)rotate(-90.0)scale(0.1 -0.1)">
+     <g transform="translate(16.2 218.5390625)rotate(-90.0)scale(0.1 -0.1)">
       <use transform="translate(0.0 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-67"/>
       <use transform="translate(63.4765625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-72"/>
       <use transform="translate(104.58984375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-61"/>
@@ -1387,7 +1387,9 @@ z
       <use transform="translate(1604.21328125 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-2f"/>
       <use transform="translate(1637.9046875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6b"/>
       <use transform="translate(1695.81484375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-67"/>
-      <use transform="translate(1759.29140625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-29"/>
+      <use transform="translate(1759.29140625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-2f"/>
+      <use transform="translate(1792.9828125 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-4b"/>
+      <use transform="translate(1858.55898437 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-29"/>
      </g>
     </g>
    </g>
