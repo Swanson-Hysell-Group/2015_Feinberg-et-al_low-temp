@@ -1600,7 +1600,7 @@ z
      </g>
     </g>
     <g id="text_16">
-     <!-- Moment (x10$^-6$ Am$^2$) -->
+     <!-- Moment (x10$^{-6}$ Am$^2$) -->
      <defs>
       <path d="
 M4.98438 0
@@ -1794,7 +1794,7 @@ L44.2812 54.6875
 z
 " id="BitstreamVeraSans-Roman-78"/>
      </defs>
-     <g transform="translate(15.5203125 160.768125)rotate(-90.0)scale(0.1 -0.1)">
+     <g transform="translate(15.5203125 158.868125)rotate(-90.0)scale(0.1 -0.1)">
       <use transform="translate(0.0 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-4d"/>
       <use transform="translate(86.279296875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6f"/>
       <use transform="translate(147.4609375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
@@ -1807,12 +1807,12 @@ z
       <use transform="translate(538.96484375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-31"/>
       <use transform="translate(602.587890625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-30"/>
       <use transform="translate(666.2109375 43.3734375)scale(0.7)" xlink:href="#Cmsy10-a1"/>
-      <use transform="translate(760.902734375 0.8578125)" xlink:href="#Cmr10-36"/>
-      <use transform="translate(810.902734375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-20"/>
-      <use transform="translate(842.68984375 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-41"/>
-      <use transform="translate(911.098046875 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
-      <use transform="translate(1008.51015625 43.3734375)scale(0.7)" xlink:href="#Cmr10-32"/>
-      <use transform="translate(1075.51640625 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-29"/>
+      <use transform="translate(720.590820312 43.3734375)scale(0.7)" xlink:href="#Cmr10-36"/>
+      <use transform="translate(772.597070313 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-20"/>
+      <use transform="translate(804.384179688 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-41"/>
+      <use transform="translate(872.792382813 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-6d"/>
+      <use transform="translate(970.204492188 43.3734375)scale(0.7)" xlink:href="#Cmr10-32"/>
+      <use transform="translate(1037.21074219 0.8578125)" xlink:href="#BitstreamVeraSans-Roman-29"/>
      </g>
     </g>
     <g id="text_17">
