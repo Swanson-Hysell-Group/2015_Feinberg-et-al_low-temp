@@ -1,0 +1,170 @@
+\begin{thebibliography}{27}
+\providecommand{\natexlab}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+
+\bibitem[{\textit{Besnus and Meyer}(1964)}]{Besnus1964a}
+Besnus, M.~J., and A.~J. Meyer (1964), Nouvelles donn{\'e}es exp{\'e}rimentales
+  sur le magn{\'e}tisme de la pyrrhotine naturelle, in \textit{Proc. Int. Conf.
+  Mag.}, vol.~20, pp. 507--511.
+
+\bibitem[{\textit{Bickford et~al.}(1957)\textit{Bickford, Brownlow, and
+  Penoyer}}]{Bickford1957a}
+Bickford, L.~R., J.~M. Brownlow, and R.~F. Penoyer (1957), Magnetocrystalline
+  anisotropy in cobalt-substituted magnetite single crystals,
+  \textit{Proceedings of the IEE - Part B: Radio and Electronic Engineering},
+  \textit{104}(5), 238--244, \doi{10.1049/pi-b-1.1957.0038}.
+
+\bibitem[{\textit{Bina and Daly}(1994)}]{Bina1994a}
+Bina, M., and L.~Daly (1994), Mineralogical change and self-reversed
+  magnetizations in pyrrhotite resulting from partial oxidation; geophysical
+  implications, \textit{Physics of the Earth and Planetary Interiors},
+  \textit{85}(1--2), 83--99,
+  \doi{http://dx.doi.org/10.1016/0031-9201(94)90009-4}.
+
+\bibitem[{\textit{Coe et~al.}(2014)\textit{Coe, Jarboe, Le~Goff, and
+  Petersen}}]{Coe2014a}
+Coe, R.~S., N.~A. Jarboe, M.~Le~Goff, and N.~Petersen (2014), {Demise of the
+  rapid-field-change hypothesis at Steens Mountain: The crucial role of
+  continuous thermal demagnetization}, \textit{Earth and Planetary Science
+  Letters}, \textit{400}(0), 302--312, \doi{10.1016/j.epsl.2014.05.036}.
+
+\bibitem[{\textit{Dunlop and {\"{O}}zdemir}(1997)}]{Dunlop1997a}
+Dunlop, D., and {\"{O}}.~{\"{O}}zdemir (1997), \textit{Rock Magnetism:
+  Fundamentals and frontiers}, Cambridge University Press, Cambridge, UK.
+
+\bibitem[{\textit{Dunlop}(2003)}]{Dunlop2003a}
+Dunlop, D.~J. (2003), Stepwise and continuous low-temperature demagnetization,
+  \textit{Geophys. Res. Lett.}, \textit{30}(11).
+
+\bibitem[{\textit{Dunlop}(2006)}]{Dunlop2006a}
+Dunlop, D.~J. (2006), Inverse thermoremanent magnetization, \textit{Journal of
+  Geophysical Research: Solid Earth}, \textit{111}(B12), B12S02,
+  \doi{10.1029/2006JB004572}.
+
+\bibitem[{\textit{{Dunlop} and {West}}(1969)}]{Dunlop1969a}
+{Dunlop}, D.~J., and G.~F. {West} (1969), An experimental evaluation of single
+  domain theories, \textit{Reviews of Geophysics and Space Physics},
+  \textit{7}, 709, \doi{10.1029/RG007i004p00709}.
+
+\bibitem[{\textit{Frederichs et~al.}(2003)\textit{Frederichs, von Dobeneck,
+  Bleil, and Dekkers}}]{Frederichs2003a}
+Frederichs, T., T.~von Dobeneck, U.~Bleil, and M.~J. Dekkers (2003), Towards
+  the identification of siderite, rhodochrosite, and vivianite in sediments by
+  their low-temperature magnetic properties, \textit{Physics and Chemistry of
+  the Earth, Parts A/B/C}, \textit{28}(16--19), 669--679,
+  \doi{10.1016/S1474-7065(03)00121-9}.
+
+\bibitem[{\textit{Hanson et~al.}(2004)\textit{Hanson, Crowley, Bowring,
+  Ramezani, Gose, Dalziel, Pancake, Seidel, Blenkinsop, and
+  Mukwakwami}}]{Hanson2004a}
+Hanson, R., J.~Crowley, S.~Bowring, J.~Ramezani, W.~Gose, I.~Dalziel,
+  J.~Pancake, E.~Seidel, T.~Blenkinsop, and J.~Mukwakwami (2004), Coeval
+  large-scale magmatism in the {K}alahari and {L}aurentian {C}ratons during
+  {R}odinia assembly, \textit{Science}, \textit{304}, 1126--1129,
+  \doi{10.1126/science.1096329}.
+
+\bibitem[{\textit{Kasama et~al.}(2010)\textit{Kasama, Church, Feinberg,
+  Dunin-Borkowski, and Harrison}}]{Kasama2010a}
+Kasama, T., N.~S. Church, J.~M. Feinberg, R.~E. Dunin-Borkowski, and R.~J.
+  Harrison (2010), Direct observation of ferrimagnetic/ferroelastic domain
+  interactions in magnetite below the {V}erwey transition, \textit{Earth and
+  Planetary Science Letters}, \textit{297}(1-2), 10--17,
+  \doi{10.1016/j.epsl.2010.05.004}.
+
+\bibitem[{\textit{Kind et~al.}(2013)\textit{Kind, Garc{\'\i}a-Rubio, Charilaou,
+  Nowaczyk, L{\"o}ffler, and Gehring}}]{Kind2013a}
+Kind, J., I.~Garc{\'\i}a-Rubio, M.~Charilaou, N.~R. Nowaczyk, J.~F.
+  L{\"o}ffler, and A.~U. Gehring (2013), {Domain-wall dynamics in 4C pyrrhotite
+  at low temperature}, \textit{Geophysical Journal International},
+  \textit{195}(1), 192--199, \doi{10.1093/gji/ggt262}.
+
+\bibitem[{\textit{Lindquist et~al.}(in review)\textit{Lindquist, Feinberg,
+  Harrison, Loudon, and Newell}}]{Lindquist2014a}
+Lindquist, A., J.~Feinberg, R.~Harrison, J.~Loudon, and A.~Newell (in review),
+  Domain wall pinning and dislocations: Investigating magnetite deformed under
+  conditions analogous to nature using transmission electron microscopy,
+  \textit{Journal of Geophysical Research, Solid Earth}.
+
+\bibitem[{\textit{Lowrie}(1990)}]{Lowrie1990a}
+Lowrie, W. (1990), Identification of ferromagnetic minerals in a rock by
+  coercivity and unblocking temperature properties, \textit{Geophys. Res.
+  Lett.}, \textit{17}(2), 159--162.
+
+\bibitem[{\textit{Mart\'in-Hern\'andez
+  et~al.}(2008)\textit{Mart\'in-Hern\'andez, Dekkers, Bominaar-Silkens, and
+  Maan}}]{Martin-Hernandez2008a}
+Mart\'in-Hern\'andez, F., M.~J. Dekkers, I.~M.~A. Bominaar-Silkens, and J.~C.
+  Maan (2008), Magnetic anisotropy behaviour of pyrrhotite as determined by
+  low- and high-field experiments, \textit{Geophysical Journal International},
+  \textit{174}(1), 42--54, \doi{10.1111/j.1365-246X.2008.03793.x}.
+
+\bibitem[{\textit{Morin}(1950)}]{Morin1950a}
+Morin, F.~J. (1950), Magnetic suceptibility of $\alpha$-{F}e$_2${O}$_3$ and
+  $\alpha$-{F}e$_2${O}$_3$ with added titanium, \textit{Physical Review},
+  \textit{78}, 819--820.
+
+\bibitem[{\textit{Muxworthy and McClelland}(2000)}]{Muxworthy2000b}
+Muxworthy, A.~R., and E.~McClelland (2000), Review of the low-temperature
+  magnetic properties of magnetite from a rock magnetic perspective,
+  \textit{Geophysical Journal International}, \textit{140}, 101--114.
+
+\bibitem[{\textit{Muxworthy et~al.}(2003)\textit{Muxworthy, Dunlop, and
+  {\"O}zdemir}}]{Muxworthy2003a}
+Muxworthy, A.~R., D.~J. Dunlop, and {\"O}.~{\"O}zdemir (2003), Low-temperature
+  cycling of isothermal and anhysteretic remanence: microcoercivity and
+  magnetic memory, \textit{Earth and Planetary Science Letters},
+  \textit{205}(3--4), 173--184, \doi{10.1016/S0012-821X(02)01039-7}.
+
+\bibitem[{\textit{{\"{O}}zdemir and Dunlop}(1999)}]{Ozdemir1999a}
+{\"{O}}zdemir, {\"{O}}., and D.~J. Dunlop (1999), Low-temperature properties of
+  a single crystal of magnetite oriented along principal magnetic axes,
+  \textit{Earth and Planetary Science Letters}, \textit{165}(2), 229--239,
+  \doi{10.1016/S0012-821X(98)00269-6}.
+
+\bibitem[{\textit{Schmidt}(1993)}]{Schmidt1993c}
+Schmidt, P.~W. (1993), Palaeomagnetic cleaning strategies, \textit{Physics of
+  the Earth and Planetary Interiors}, \textit{76}(1--2), 169--178,
+  \doi{10.1016/0031-9201(93)90066-I}.
+
+\bibitem[{\textit{Smirnov and Tarduno}(2011)}]{Smirnov2011a}
+Smirnov, A.~V., and J.~A. Tarduno (2011), Development of a low-temperature
+  insert for the measurement of remanent magnetization direction using
+  superconducting quantum interference device rock magnetometers,
+  \textit{Geochem. Geophys. Geosyst.}, \textit{12}(4).
+
+\bibitem[{\textit{Verwey}(1939)}]{Verwey1939a}
+Verwey, E. J.~W. (1939), Electronic conduction of magnetite ({F}e$_3${O}$_4$)
+  and its transition point at low temperatures, \textit{Nature}, \textit{144},
+  327--328.
+
+\bibitem[{\textit{{Wack} and {Matzka}}(2007)}]{Wack2007a}
+{Wack}, M., and J.~{Matzka} (2007), {A new type of a three-component spinner
+  magnetometer to measure the remanence of rocks at elevated temperature},
+  \textit{Earth, Planets, and Space}, \textit{59}, 853--862.
+
+\bibitem[{\textit{Wolfers et~al.}(2011)\textit{Wolfers, {Fillion}, Ouladdiaf,
+  Ballou, and {Rochette}}}]{Wolfers2011a}
+Wolfers, P., G.~{Fillion}, B.~Ouladdiaf, R.~Ballou, and P.~{Rochette} (2011),
+  The pyrrhotite 32{K} magnetic transition, \textit{Solid State Phenomena},
+  \textit{170}, 174--179, \doi{10.4028/www.scientific.net/SSP.170.174}.
+
+\bibitem[{\textit{Worm and Jackson}(1999)}]{Worm1999a}
+Worm, H.-U., and M.~Jackson (1999), {The superparamagnetism of Yucca Mountain
+  Tuff}, \textit{J. Geophys. Res.}, \textit{104}(B11), 25,415--25,425.
+
+\bibitem[{\textit{Yamamoto et~al.}(2003)\textit{Yamamoto, Tsunakawa, and
+  Shibuya}}]{Yamamoto2003a}
+Yamamoto, Y., H.~Tsunakawa, and H.~Shibuya (2003), Palaeointensity study of the
+  {H}awaiian 1960 lava: implications for possible causes of erroneously high
+  intensities, \textit{Geophysical Journal International}, \textit{153}(1),
+  263--276.
+
+\bibitem[{\textit{Zapletal}(1992)}]{Zapletal1992a}
+Zapletal, K. (1992), Self-reversal of isothermal remanent magnetization in a
+  pyrrhotite (fe$_7$s$_8$) crystal, \textit{Physics of the Earth and Planetary
+  Interiors}, \textit{70}(3--4), 302--311, \doi{10.1016/0031-9201(92)90196-3}.
+
+\end{thebibliography}
