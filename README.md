@@ -1,4 +1,4 @@
-This repository contains materials associated with the paper:
+This repository contains materials associated with a paper currently in revision at G$^3$:
 
 > Full vector low-temperature magnetic measurements of geologic materials ￼
 
