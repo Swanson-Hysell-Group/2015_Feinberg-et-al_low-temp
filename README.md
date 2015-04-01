@@ -1,10 +1,8 @@
-This repository contains materials associated with a paper currently in revision at G$^3$:
+This repository contains materials associated with this paper:
 
-> Full vector low-temperature magnetic measurements of geologic materials ￼
+> Feinberg, J.M., Solheid, P.A., Swanson-Hysell, N.L., Jackson, M., and Bowles, J.A.  Full vector low-temperature magnetic measurements of geologic materials. Geochemistry Geophysics Geosystems, (2015), doi:10.1002/2014GC005591.
 
-> Joshua M. Feinberg<sup>1</sup>, Peter A. Solheid<sup>1</sup>, Nicholas L. Swanson-Hysell<sup>1,2</sup>, Mike Jackson<sup>1</sup> and Julie A. Bowles<sup>1,3</sup>
-
-> <sup>1</sup>Institute for Rock Magnetism, University of Minnesota, Minneapolis, MN, USA; <sup>2</sup>Department of Earth and Planetary Science, University of California, Berkeley CA, USA; <sup>3</sup>Department of Geosciences, University of Wisconsin, Milwaukee, WI, USA
+> <a href="https://github.com/Swanson-Hysell/2015_Feinberg-et-al_low-temp/raw/master/Manuscript/Feinbergetal2015_preprint.pdf">PDF of preprint</a> | <a href="http://www.escholarship.org/uc/item/7n65f6gg">open access archive </a>| <a href="http://onlinelibrary.wiley.com/doi/10.1002/2014GC005591/abstract">link to journal page</a>
 
 Within this github repository are the following folders:
 
