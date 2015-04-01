@@ -9,10 +9,10 @@ Within this github repository are the following folders:
 ##Code 
 This folder contains an IPython/Jupyter notebook file that is the main supplemental materials associated with the paper as well as non-standard function libraries necessary to run the code within the notebook.
 
+To run the code in the notebook it is necessary to both download the code from the Github repository and have an installed Python distribution that includes IPython and the other standard scientific python libraries (http://www.scipy.org/). There are good instructions for installing IPython/jupyter here: http://ipython.org/install.html. Alternatively you can view the notebook online with the jupyter nbviewer at this link: https://nbviewer.jupyter.org/github/swanson-hysell/2015_Feinberg-et-al_low-temp/blob/master/Code/LowT_Data_Analysis.ipynb
+
 ##Data 
 This folder contains the data generated for the case studies presented in this work that are used in the data analysis and presented in the paper.
 
 ##Manuscript
 This folder contains the paper text and figures.
-
-To run the code in the notebook it is necessary to both download the code from the Github repository and have an installed Python distribution that includes IPython and the other standard scientific python libraries (http://www.scipy.org/). There are good instructions for installing IPython/jupyter here: http://ipython.org/install.html. Alternatively you can view the notebook online with the jupyter nbviewer at this link: https://nbviewer.jupyter.org/github/swanson-hysell/2015_Feinberg-et-al_low-temp/blob/master/Code/LowT_Data_Analysis.ipynb
