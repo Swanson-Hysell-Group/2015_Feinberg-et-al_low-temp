@@ -1,6 +1,6 @@
 This repository contains materials associated with this paper:
 
-> Feinberg, J.M., Solheid, P.A., Swanson-Hysell, N.L., Jackson, M., and Bowles, J.A.  Full vector low-temperature magnetic measurements of geologic materials. Geochemistry Geophysics Geosystems, (2015), doi:10.1002/2014GC005591.
+> Feinberg, J.M., Solheid, P.A., Swanson-Hysell, N.L., Jackson, M., and Bowles, J.A. (2015),  Full vector low-temperature magnetic measurements of geologic materials. Geochemistry Geophysics Geosystems, 16, 301–314, doi:10.1002/2014GC005591.
 
 > <a href="https://github.com/Swanson-Hysell/2015_Feinberg-et-al_low-temp/raw/master/Manuscript/Feinbergetal2015_preprint.pdf">PDF of preprint</a> | <a href="http://www.escholarship.org/uc/item/7n65f6gg">open access archive </a>| <a href="http://onlinelibrary.wiley.com/doi/10.1002/2014GC005591/abstract">link to journal page</a>
 
